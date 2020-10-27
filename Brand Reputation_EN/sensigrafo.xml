@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sensigrafo id="" resid="sens_en_15.0.0_standard" path="dic" hash="">
+    <ambient>
+        <a>
+            <virtual level="2" mono="0" reduced="0"/>
+        </a>
+    </ambient>
+</sensigrafo>
