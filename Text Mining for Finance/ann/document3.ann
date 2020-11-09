@@ -1,0 +1,53 @@
+T1	Wordcloud.Wordcloud 570 582	Brian Niccol
+T2	Wordcloud.Wordcloud 615 621	Brian Niccol
+T3	Wordcloud.Wordcloud 691 697	Brian Niccol
+T4	Wordcloud.Wordcloud 951 957	Brian Niccol
+T5	Wordcloud.Wordcloud 965 966	Brian Niccol
+T6	Wordcloud.Wordcloud 803 805	Brian Niccol
+T7	Wordcloud.Wordcloud 1054 1056	Brian Niccol
+T8	Wordcloud.Wordcloud 44 47	CEO
+T9	Wordcloud.Wordcloud 129 132	CEO
+T10	Wordcloud.Wordcloud 904 913	breakfast
+T11	Wordcloud.Wordcloud 931 940	breakfast
+T12	Wordcloud.Wordcloud 209 216	burrito
+T13	Wordcloud.Wordcloud 769 777	burrito
+T14	Wordcloud.Wordcloud 941 949	burrito
+T15	Wordcloud.Wordcloud 0 8	chipotle
+T16	Wordcloud.Wordcloud 60 68	chipotle
+T17	Wordcloud.Wordcloud 300 308	chipotle
+T18	Wordcloud.Wordcloud 521 529	chipotle
+T19	Wordcloud.Wordcloud 1177 1185	chipotle
+T20	Wordcloud.Wordcloud 1455 1463	chipotle
+T21	Wordcloud.Wordcloud 1636 1644	chipotle
+T22	Wordcloud.Wordcloud 1979 1987	chipotle
+T23	Wordcloud.Wordcloud 1250 1270	fast food restaurant
+T24	Wordcloud.Wordcloud 1696 1707	food safety
+T25	Wordcloud.Wordcloud 1823 1834	food safety
+T26	Wordcloud.Wordcloud 1628 1634	growth
+T27	Wordcloud.Wordcloud 1196 1204	increase
+T28	Wordcloud.Wordcloud 1584 1593	investor
+T29	Wordcloud.Wordcloud 180 189	investor
+T30	Wordcloud.Wordcloud 85 91	price
+T31	Wordcloud.Wordcloud 1291 1296	price
+T32	Wordcloud.Wordcloud 1407 1413	price
+T33	Wordcloud.Wordcloud 104 115	restaurant
+T34	Wordcloud.Wordcloud 1224 1234	restaurant
+T35	Wordcloud.Wordcloud 1988 1998	restaurant
+T36	Wordcloud.Wordcloud 360 367	revenue
+T37	Wordcloud.Wordcloud 1188 1195	revenue
+T38	Wordcloud.Wordcloud 1442 1449	revenue
+T39	Wordcloud.Wordcloud 1620 1627	revenue
+T40	Wordcloud.Wordcloud 9 14	stock
+T41	Wordcloud.Wordcloud 225 230	stock
+T42	Wordcloud.Wordcloud 532 545	top executive
+T43	Wordcloud.Wordcloud 1719 1726	E
+T44	Finance_Extractions.Revenue_Increase 376 380	7.4%
+T45	Finance_Extractions.Stock_Exchange 433 444	Wall Street
+T46	Finance_Extractions.Revenue_Increase 1423 1427	4.9%
+T47	Finance_Communications.Source 691 697	Brian Niccol
+T48	Finance_Communications.Sentence 691 856	Niccol said that "for now, the company will focus on its current offerings of burritos, bowls and salads" - but he didn't rule out adding new flavors and menu items.
+T49	Finance_Communications.Quote 708 856	"for now, the company will focus on its current offerings of burritos, bowls and salads" - but he didn't rule out adding new flavors and menu items.
+T50	Finance_Communications.Form 698 702	said
+T51	Finance_Communications.Action 698 702	said
+T52	Contact_Info.Phone 2082 2097	+1 202.555.0102
+T53	Contact_Info.Email 2038 2069	thisisanemail@thisisanemail.com

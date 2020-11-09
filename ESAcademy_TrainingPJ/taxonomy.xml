@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOMAINTREE>
+	<DOMAIN NAME="T2" LABEL="Technology">
+		<DOMAIN NAME="T2.01" LABEL="Information Technology"/>
+		<DOMAIN NAME="T2.02" LABEL="Networks"/>
+		<DOMAIN NAME="T2.03" LABEL="Sensors"/>
+		<DOMAIN NAME="T2.04" LABEL="Internet of Things"/>
+		<DOMAIN NAME="T2.05" LABEL="Transport Technology"/>
+		<DOMAIN NAME="T2.06" LABEL="Energy Technology"/>
+		<DOMAIN NAME="T2.07" LABEL="Medical Technology">
+			<DOMAIN NAME="T2.07.01" LABEL="Assistive Technology"/>
+		</DOMAIN>
+		<DOMAIN NAME="T2.08" LABEL="Robotics">
+			<DOMAIN NAME="T2.08.01" LABEL="Aerospace Robotics"/>
+			<DOMAIN NAME="T2.08.02" LABEL="Consumer Robotics"/>
+			<DOMAIN NAME="T2.08.03" LABEL="Disaster Response"/>
+			<DOMAIN NAME="T2.08.04" LABEL="Drones"/>
+			<DOMAIN NAME="T2.08.05" LABEL="Exoskeletons"/>
+			<DOMAIN NAME="T2.08.06" LABEL="Humanoids"/>
+			<DOMAIN NAME="T2.08.07" LABEL="Industrial Robotics"/>
+			<DOMAIN NAME="T2.08.08" LABEL="Security Robotics"/>
+			<DOMAIN NAME="T2.08.09" LABEL="Telepresence"/>
+			<DOMAIN NAME="T2.08.10" LABEL="Underwater Robotics"/>
+		</DOMAIN>
+		<DOMAIN NAME="T2.09" LABEL="Aerospace Technology"/>
+		<DOMAIN NAME="T2.10" LABEL="Artificial Intelligence">
+			<DOMAIN NAME="T2.10.01" LABEL="Machine Learning"/>
+		</DOMAIN>
+		<DOMAIN NAME="T2.11" LABEL="Natural Language Processing">
+			<DOMAIN NAME="T2.11.01" LABEL="Natural Language Understanding"/>
+		</DOMAIN>
+		<DOMAIN NAME="U1" LABEL="Other"/>
+		<DOMAIN NAME="T2.12" LABEL="Biotechnology"/>
+	</DOMAIN>
+</DOMAINTREE>

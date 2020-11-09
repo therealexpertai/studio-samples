@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="COGITO_MODULE_TYPE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v2\ann" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v2\documents" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v2\gen" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v2\package" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v2\reports" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v3\ann" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v3\documents" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v3\gen" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v3\package" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v3\reports" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v4\ann" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v4\documents" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v4\gen" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v4\package" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ v4\reports" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ\ann" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ\documents" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ\gen" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ\package" />
+      <excludeFolder url="$MODULE_DIR$/../ESAcademy_TrainingPJ\reports" />
+      <excludeFolder url="file://$MODULE_DIR$/gen" />
+      <excludeFolder url="file://$MODULE_DIR$/package" />
+      <excludeFolder url="file://$MODULE_DIR$/reports" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

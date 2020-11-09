@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="COGITO_MODULE_TYPE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="$MODULE_DIR$/../Brand Reputation_DE\ann" />
+      <excludeFolder url="$MODULE_DIR$/../Brand Reputation_DE\documents" />
+      <excludeFolder url="$MODULE_DIR$/../Brand Reputation_DE\gen" />
+      <excludeFolder url="$MODULE_DIR$/../Brand Reputation_DE\package" />
+      <excludeFolder url="$MODULE_DIR$/../Brand Reputation_DE\reports" />
+      <excludeFolder url="file://$MODULE_DIR$/gen" />
+      <excludeFolder url="file://$MODULE_DIR$/package" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

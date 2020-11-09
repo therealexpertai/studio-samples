@@ -1,0 +1,152 @@
+
+
+
+							//-----------------------------------------------------------//
+							//                          SCRIPTING                        //
+							//-----------------------------------------------------------//
+
+
+//  Scripting
+//______________________________________________________________________________________________________________________
+
+/*
+         Scripting allows controlling and extending the project workflow.
+         (please see https://docs.expert.ai/studio/latest/languages/scripting/ for a complete explanation)
+*/
+
+//______________________________________________________________________________________________________________________
+
+
+function shutdown() {
+
+}
+
+
+//______________________________________________________________________________________________________________________
+
+
+function initialize(cmdline) {
+
+	return true;
+}
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onPrepare         Enable this function if you need to modify text
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#onprepare
+*/
+
+/*
+function onPrepare(text) {
+
+    return text;
+}
+*/
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onTagger          Enable this function if you need to add tags to the disambiguation
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#ontagger
+*/
+
+/*
+function onTagger() {
+}
+*/
+
+
+function existingField(fields, newField){
+    for(var f = 0; f < fields.length; f++){
+        if(fields[f].field == newField.field && fields[f].value == newField.value)
+            return true;
+    }
+    return false;
+}
+
+function aggregate(extractions){
+    // Aggregate all extractions of the “Finance_Acquisitions” template extracting the same “Sentence”.
+    // All fields and records that are not being aggregated, must be discarted
+    var to_remove = [];
+    for(var e = 0; e < extractions.length; e++){
+        var template = extractions[e].template;
+        if(template == 'Finance_Acquisitions' && to_remove.indexOf(e) == -1){
+            var fields = extractions[e].fields;
+            for(var f = 0; f < fields.length; f++){
+                if(fields[f].field == 'Sentence'){
+                    // Here I look for eventual "twin records" in the following ones
+                    for(var ee = e + 1; ee < extractions.length; ee++){
+                        var template2 = extractions[ee].template;
+                        if(template2 == 'Finance_Acquisitions' && to_remove.indexOf(ee) == -1){
+                            var fields2 = extractions[ee].fields;
+                            var merge = false;
+                            for(var ff = 0; ff < fields2.length; ff++){
+                                if(fields2[ff].field == 'Sentence' && fields[f].value == fields2[ff].value){
+                                    merge = true;
+                                    break;
+                                }
+                            }
+                            if(merge){
+                                for(var ff = 0; ff < fields2.length; ff++){
+                                    if(fields2[ff].field != 'Sentence'){
+                                        // I only aggregate fields if they're not in the record already
+                                        if(!existingField(extractions[e].fields, fields2[ff])){
+                                            var clone = JSON.parse(JSON.stringify(fields2[ff]));
+                                            extractions[e].fields.push(clone);
+                                        }
+                                    }
+                                }
+                                to_remove.push(ee);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    if(to_remove.length > 0){
+        to_remove.sort(orderBy);
+        for(var f = to_remove.length - 1; f >= 0 ; f--){
+            extractions.splice(to_remove[f], 1);
+        }
+    }
+    return extractions;
+}
+
+function orderBy(item1, item2) {
+    return item1 - item2;
+}
+
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onFinalize        Enable this function if you need to modify standard json output or add custom output
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#onfinalize
+*/
+
+function onFinalize(result) {
+    var extractions = result.match_info.rules.extraction;
+    try {
+        aggregate(extractions);
+    } catch(err){
+        CONSOLE.error(err);
+    }
+    return result;
+}
+
+// enable this function if you need to apply language "D" to further process categorization results
+/*
+function onCategorizer() {
+	var RESULTS = CLONE(ALL);
+	WINNERS = RESULTS;
+}
+*/
+

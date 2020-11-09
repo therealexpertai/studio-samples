@@ -1,0 +1,77 @@
+T1	Wordcloud.Wordcloud 7 18	investment
+T2	Wordcloud.Wordcloud 29 39	Exxon Mobil Corporation
+T3	Wordcloud.Wordcloud 129 140	investment
+T4	Wordcloud.Wordcloud 324 331	capital
+T5	Wordcloud.Wordcloud 337 351	credit rating
+T6	Wordcloud.Wordcloud 495 501	price
+T7	Wordcloud.Wordcloud 629 635	price
+T8	Wordcloud.Wordcloud 766 772	market
+T9	Wordcloud.Wordcloud 888 895	company
+T10	Wordcloud.Wordcloud 896 900	Exxon Mobil Corporation
+T11	Wordcloud.Wordcloud 953 963	Exxon Mobil Corporation
+T12	Wordcloud.Wordcloud 1015 1022	company
+T13	Wordcloud.Wordcloud 1058 1067	company
+T14	Wordcloud.Wordcloud 1197 1204	company
+T15	Wordcloud.Wordcloud 1290 1300	Exxon Mobil Corporation
+T16	Wordcloud.Wordcloud 1438 1444	share
+T17	Wordcloud.Wordcloud 1450 1457	company
+T18	Wordcloud.Wordcloud 1506 1512	price
+T19	Wordcloud.Wordcloud 1543 1550	company
+T20	Wordcloud.Wordcloud 1585 1597	shareholder
+T21	Wordcloud.Wordcloud 1689 1700	investment
+T22	Wordcloud.Wordcloud 1732 1738	market
+T23	Wordcloud.Wordcloud 1749 1758	pipeline
+T24	Wordcloud.Wordcloud 1820 1826	market
+T25	Wordcloud.Wordcloud 1834 1843	pipeline
+T26	Wordcloud.Wordcloud 1898 1907	contract
+T27	Wordcloud.Wordcloud 1908 1912	contract
+T28	Wordcloud.Wordcloud 1867 1874	revenue
+T29	Wordcloud.Wordcloud 1950 1955	price
+T30	Wordcloud.Wordcloud 1985 1993	Ferdinand Magellan
+T31	Wordcloud.Wordcloud 2028 2035	revenue
+T32	Wordcloud.Wordcloud 2062 2070	Ferdinand Magellan
+T33	Wordcloud.Wordcloud 2111 2120	contract
+T34	Wordcloud.Wordcloud 2149 2157	pipeline
+T35	Wordcloud.Wordcloud 2229 2237	pipeline
+T36	Wordcloud.Wordcloud 2381 2389	Ferdinand Magellan
+T37	Wordcloud.Wordcloud 2474 2482	Ferdinand Magellan
+T38	Wordcloud.Wordcloud 2560 2573	credit rating
+T39	Wordcloud.Wordcloud 2589 2599	Exxon Mobil Corporation
+T40	Wordcloud.Wordcloud 2681 2689	pipeline
+T41	Wordcloud.Wordcloud 2793 2800	capital
+T42	Wordcloud.Wordcloud 2836 2844	Ferdinand Magellan
+T43	Wordcloud.Wordcloud 2880 2892	shareholder
+T44	Wordcloud.Wordcloud 2944 2951	company
+T45	Wordcloud.Wordcloud 2970 2982	shareholder
+T46	Wordcloud.Wordcloud 3093 3103	investment
+T47	Wordcloud.Wordcloud 3117 3130	Oilwell Varco
+T48	Wordcloud.Wordcloud 3165 3170	price
+T49	Wordcloud.Wordcloud 3317 3323	share
+T50	Wordcloud.Wordcloud 3257 3264	company
+T51	Wordcloud.Wordcloud 3294 3304	investment
+T52	Wordcloud.Wordcloud 3393 3399	market
+T53	Wordcloud.Wordcloud 3478 3491	Oilwell Varco
+T54	Wordcloud.Wordcloud 3546 3553	market
+T55	Wordcloud.Wordcloud 3602 3609	company
+T56	Wordcloud.Wordcloud 3662 3669	revenue
+T57	Wordcloud.Wordcloud 3813 3821	downturn
+T58	Wordcloud.Wordcloud 3836 3842	market
+T59	Wordcloud.Wordcloud 3855 3868	Oilwell Varco
+T60	Wordcloud.Wordcloud 3933 3941	downturn
+T61	Wordcloud.Wordcloud 3949 3955	price
+T62	Wordcloud.Wordcloud 3975 3983	downturn
+T63	Wordcloud.Wordcloud 4009 4016	capital
+T64	Wordcloud.Wordcloud 4047 4060	Oilwell Varco
+T65	Wordcloud.Wordcloud 4169 4175	market
+T66	Wordcloud.Wordcloud 4200 4209	company
+T67	Wordcloud.Wordcloud 4307 4314	company
+T68	Finance_Extractions.Investment 129 140	the safer investments
+T69	Finance_Extractions.Company 29 39	Exxon Mobil Corporation
+T70	Finance_Extractions.Investment 1689 1700	the safer investments
+T71	Finance_Extractions.Company 1643 1670	Magellan Midstream Partners
+T72	Finance_Extractions.Investment 3294 3304	a safe oil investment
+T73	Finance_Extractions.Company 3108 3130	company
+T74	Finance_Extractions.Company 3174 3196	company
+T75	Contact_Info.Phone 4417 4427	2025550102
+T76	Contact_Info.FullName 4351 4364	Rick Bartowls
+T77	Contact_Info.Email 4373 4404	thisisanemail@thisisanemail.com

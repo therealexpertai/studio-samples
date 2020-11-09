@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/ann/biotech1.ann" />
+    <file url="file://$PROJECT_DIR$/ann/compsci1.ann" />
+    <file url="file://$PROJECT_DIR$/ann/email1.ann" />
+    <file url="file://$PROJECT_DIR$/ann/nettech.ann" />
+    <file url="file://$PROJECT_DIR$/ann/nlp1.ann" />
+    <file url="file://$PROJECT_DIR$/ann/nlp2.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology1.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology2.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology3.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology4.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology5.ann" />
+    <file url="file://$PROJECT_DIR$/ann/technology6.ann" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+SureView-Display: Megabook ist der neue Laptop von Novell
+Wie bei Business-Laptops üblich gibt Novell den Kunden verschiedene 13,3-Zoll-Bildschirm-Optionen zur Auswahl. Alle Touch-Displays haben eine Auflösung von 1.920 x 1.080 Pixeln (Full-HD):
+Full-HD-LCD (250 cd/m²), 45 % NTSC, glossy
+Full-HD-LCD (400 cd/m²), 72 % NTSC, glossy oder matt
+Full-HD-LCD mit SureView (1000 cd/m²), 72 % NTSC, glossy oder matt
+Das Testgerät enthält das matte SureView-LCD. Den von Novell angegebenen Helligkeitswert erreicht der Bildschirm nicht annähernd, statt 1000 cd/m² messen wir durchschnittlich 692 cd/m². Damit ist der Bildschirm einerseits extrem hell, aber auch deutlich von Novells Angaben entfernt. Die Konkurrenz von Lenovo und Dell kann Novell nicht das Wasser reichen. Nur das Novell Megabook x360 1030 G3, das ebenfalls mit einem SureView-Panel ausgestattet ist, hat ähnlich hohe Helligkeitswerte.
+Backlight-Bleeding ist kaum vorhanden, die Ausleuchtung ist mit 69 % hart an der Grenze - mit bloßem Auge sind keine Abschattungen sichtbar. PWM hat der Bildschirm, egal bei welcher Helligkeitsstufe. Mit der Frequenz von 952,4 Hz sollten die meisten Nutzer keine Probleme bekommen.
+Ab Werk gibt es einen leichten Rotstich, der im SureView-Modus ausgeprägter ist. Mit einer Kalibrierung lässt er sich beseitigen. Die Bilddarstellung ist gut, auch dank des hohen Kontrastwerts von 2319:1 - die matte Oberfläche wirkt sich allerdings etwas negativ auf die Klarheit des Bildes aus. Für maximale Qualität sollte man eher die glänzende Variante nehmen. Die Farbraumabdeckung ist mit 93,6 % des sRGB-Farbraums nicht schlecht, aber verbesserungswürdig. Bildbearbeitung ist möglich, Farbecht ist der Bildschirm aber nicht ganz.
+Die hohe Helligkeit sowie die matte Oberfläche ermöglichen den Outdoor-Einsatz. In der Sonne wird es trotzdem schwierig, auch wegen der Blickwinkelstabilität.

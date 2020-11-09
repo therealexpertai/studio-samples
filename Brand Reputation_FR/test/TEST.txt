@@ -1,0 +1,4 @@
+Welcome to Studio, the new powerful development environment by Expert System (Modena)
+-------------------------------------------------
+This is a test file!
+You can add all the test file you want by adding new <filename>.txt files to test directory!

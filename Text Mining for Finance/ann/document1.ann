@@ -1,0 +1,51 @@
+T1	Finance_Communications.Source 650 660	Steve Good
+T2	Finance_Communications.Sentence 562 719	"The pandemic started picking up momentum while discussing terms with the seller", said Steve Good, Partner and TerraCap's National Director of Acquisitions.
+T3	Finance_Communications.Quote 562 719	"The pandemic started picking up momentum while discussing terms with the seller"
+T4	Finance_Communications.Quote 562 720	"The pandemic started picking up momentum while discussing terms with the seller"
+T5	Finance_Communications.Form 645 649	said
+T6	Finance_Communications.Action 645 649	said
+T7	Finance_Acquisitions.Sentence 0 91	TerraCap Management LLC Acquires Cobb Corporate Center & Northwoods Commons for $27,600,000
+T8	Finance_Acquisitions.Seller 33 54	Cobb Corporate Center
+T9	Finance_Acquisitions.Seller 57 75	Northwoods Commons
+T10	Finance_Acquisitions.Form 24 32	Acquires
+T11	Finance_Acquisitions.Buyer 0 23	TerraCap Management LLC
+T12	Finance_Acquisitions.Action 24 32	Acquires
+T13	Finance_Acquisitions.Acquisition_Money 80 91	$27,600,000
+T14	Finance_Acquisitions.Sentence 92 197	ATLANTA, July 27, 2020 /PRNewswire/ -- TerraCap Management LLC announced today the acquisitions of Cobb Corporate Center and Northwoods Commons for $27,600,000.
+T15	Finance_Acquisitions.Seller 152 173	Cobb Corporate Center
+T16	Finance_Acquisitions.Seller 178 196	Northwoods Commons
+T17	Finance_Acquisitions.Form 136 148	Finance
+T18	Finance_Acquisitions.Buyer 92 115	TerraCap Management LLC
+T19	Finance_Acquisitions.Action 136 148	acquisitions
+T20	Finance_Acquisitions.Acquisition_Money 80 91	27,600,000 dollar
+T21	Wordcloud.Wordcloud 1592 1599	Atlanta
+T22	Wordcloud.Wordcloud 33 54	Cobb Corporate Center
+T23	Wordcloud.Wordcloud 57 75	Northwoods Commons
+T24	Wordcloud.Wordcloud 152 173	Cobb Corporate Center
+T25	Wordcloud.Wordcloud 2332 2336	debt
+T26	Wordcloud.Wordcloud 2270 2279	financing
+T27	Wordcloud.Wordcloud 2265 2269	debt
+T28	Wordcloud.Wordcloud 980 1001	Cobb Corporate Center
+T29	Wordcloud.Wordcloud 1601 1622	Cobb Corporate Center
+T30	Wordcloud.Wordcloud 1576 1582	office
+T31	Wordcloud.Wordcloud 1887 1893	office
+T32	Wordcloud.Wordcloud 1929 1935	office
+T33	Wordcloud.Wordcloud 206 216	property
+T34	Wordcloud.Wordcloud 1265 1275	property
+T35	Wordcloud.Wordcloud 1936 1946	property
+T36	Wordcloud.Wordcloud 636 642	seller
+T37	Wordcloud.Wordcloud 816 822	seller
+T38	Wordcloud.Wordcloud 392 402	submarket
+T39	Wordcloud.Wordcloud 1814 1824	submarket
+T40	Wordcloud.Wordcloud 1758 1768	submarket
+T41	Wordcloud.Wordcloud 2113 2118	value
+T42	Wordcloud.Wordcloud 2386 2393	leasing
+T43	Finance_Communications.Quote 562 643	"The pandemic started picking up momentum while discussing terms with the seller"
+T44	Finance_Communications.Action 0 1	say
+T45	Finance_Acquisitions.Form 24 32	Finance
+T46	Finance_Acquisitions.Action 24 32	acquire
+T47	Finance_Acquisitions.Sentence 92 197	TerraCap Management LLC announced today the acquisitions of Cobb Corporate Center in Marietta, GA and Northwoods Commons in Norcross, GA for $27,600,000.
+T48	Finance_Acquisitions.Action 136 148	acquisition
+T49	Contact_Info.FullName 2472 2490	Jim Goodwinchester
+T50	Contact_Info.Phone 2543 2558	+1 2025550124
+T51	Contact_Info.Email 2499 2530	thisisanemail@thisisanemail.com

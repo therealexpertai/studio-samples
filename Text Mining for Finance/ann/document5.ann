@@ -1,0 +1,88 @@
+T1	Wordcloud.Wordcloud 5 16	hedge fund
+T2	Wordcloud.Wordcloud 29 47	Ford Motor Company
+T3	Wordcloud.Wordcloud 108 115	insider
+T4	Wordcloud.Wordcloud 164 175	hedge fund
+T5	Wordcloud.Wordcloud 197 206	investor
+T6	Wordcloud.Wordcloud 276 285	investor
+T7	Wordcloud.Wordcloud 287 296	portfolio
+T8	Wordcloud.Wordcloud 342 348	market
+T9	Wordcloud.Wordcloud 406 415	investor
+T10	Wordcloud.Wordcloud 484 491	S&P 500
+T11	Wordcloud.Wordcloud 582 593	hedge fund
+T12	Wordcloud.Wordcloud 602 620	Ford Motor Company
+T13	Wordcloud.Wordcloud 622 626	Big Board
+T14	Wordcloud.Wordcloud 696 701	stock
+T15	Wordcloud.Wordcloud 734 744	hedge fund
+T16	Wordcloud.Wordcloud 755 773	Ford Motor Company
+T17	Wordcloud.Wordcloud 775 779	NYSE
+T18	Wordcloud.Wordcloud 802 810	manager
+T19	Wordcloud.Wordcloud 847 857	hedge fund
+T20	Wordcloud.Wordcloud 956 962	stock
+T21	Wordcloud.Wordcloud 969 980	hedge fund
+T22	Wordcloud.Wordcloud 992 994	Q1
+T23	Wordcloud.Wordcloud 1113 1123	hedge fund
+T24	Wordcloud.Wordcloud 1124 1130	stock
+T25	Wordcloud.Wordcloud 1052 1058	stock
+T26	Wordcloud.Wordcloud 1143 1154	marketplace
+T27	Wordcloud.Wordcloud 1197 1206	investor
+T28	Wordcloud.Wordcloud 1229 1235	stock
+T29	Wordcloud.Wordcloud 1280 1290	hedge fund
+T30	Wordcloud.Wordcloud 1311 1319	interest
+T31	Wordcloud.Wordcloud 1399 1409	hedge fund
+T32	Wordcloud.Wordcloud 1410 1418	manager
+T33	Wordcloud.Wordcloud 1432 1439	S&P 500
+T34	Wordcloud.Wordcloud 1464 1471	insider
+T35	Wordcloud.Wordcloud 1542 1546	idea
+T36	Wordcloud.Wordcloud 1584 1591	market
+T37	Wordcloud.Wordcloud 1781 1791	conviction
+T38	Wordcloud.Wordcloud 1792 1796	idea
+T39	Wordcloud.Wordcloud 1937 1947	hedge fund
+T40	Wordcloud.Wordcloud 1948 1956	investor
+T41	Wordcloud.Wordcloud 1979 1984	stock
+T42	Wordcloud.Wordcloud 1996 2006	hedge fund
+T43	Wordcloud.Wordcloud 2052 2058	stock
+T44	Wordcloud.Wordcloud 2102 2110	investor
+T45	Wordcloud.Wordcloud 2158 2164	market
+T46	Wordcloud.Wordcloud 2174 2181	S&P 500
+T47	Wordcloud.Wordcloud 2282 2291	investor
+T48	Wordcloud.Wordcloud 2328 2338	hedge fund
+T49	Wordcloud.Wordcloud 2359 2377	Ford Motor Company
+T50	Wordcloud.Wordcloud 2379 2383	NYSE
+T51	Wordcloud.Wordcloud 2422 2440	Ford Motor Company
+T52	Wordcloud.Wordcloud 2442 2446	NYSE
+T53	Wordcloud.Wordcloud 2469 2482	first quarter
+T54	Wordcloud.Wordcloud 2505 2516	hedge fund
+T55	Wordcloud.Wordcloud 2528 2535	insider
+T56	Wordcloud.Wordcloud 2558 2563	stock
+T57	Wordcloud.Wordcloud 2651 2662	hedge fund
+T58	Wordcloud.Wordcloud 2678 2686	position
+T59	Wordcloud.Wordcloud 2709 2720	hedge fund
+T60	Wordcloud.Wordcloud 2773 2783	hedge fund
+T61	Wordcloud.Wordcloud 2784 2792	manager
+T62	Wordcloud.Wordcloud 2793 2796	manager
+T63	Wordcloud.Wordcloud 2819 2825	stake
+T64	Wordcloud.Wordcloud 2951 2956	stake
+T65	Wordcloud.Wordcloud 2960 2978	Ford Motor Company
+T66	Wordcloud.Wordcloud 2980 2984	NYSE
+T67	Wordcloud.Wordcloud 3245 3250	stock
+T68	Wordcloud.Wordcloud 3280 3290	hedge fund
+T69	Wordcloud.Wordcloud 3429 3447	Ford Motor Company
+T70	Wordcloud.Wordcloud 3449 3453	NYSE
+T71	Wordcloud.Wordcloud 3482 3491	portfolio
+T72	Wordcloud.Wordcloud 3547 3552	stock
+T73	Wordcloud.Wordcloud 3597 3606	portfolio
+T74	Finance_Extractions.Stock_Exchange 622 628	NYSE:F
+T75	Finance_Extractions.Investment 641 651	good investment
+T76	Finance_Extractions.Company 602 620	Ford Motor Company
+T77	Finance_Extractions.Stock_Exchange 775 781	NYSE:F
+T78	Finance_Extractions.Company 755 773	Ford Motor Company
+T79	Finance_Extractions.Stock_Exchange 2379 2385	NYSE:F
+T80	Finance_Extractions.Company 2359 2377	Ford Motor Company
+T81	Finance_Extractions.Stock_Exchange 2442 2448	NYSE:F
+T82	Finance_Extractions.Company 2422 2440	Ford Motor Company
+T83	Finance_Extractions.Stock_Exchange 2980 2986	NYSE:F
+T84	Finance_Extractions.Company 2960 2978	Ford Motor Company
+T85	Finance_Extractions.Stock_Exchange 3449 3455	NYSE:F
+T86	Finance_Extractions.Company 3429 3447	Ford Motor Company
+T87	Contact_Info.Phone 3686 3699	+1202 5550163
+T88	Contact_Info.Email 3642 3673	thisisanemail@thisisanemail.com

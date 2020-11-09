@@ -1,0 +1,10 @@
+Novell Inspire 123E-512.
+Marque: Novell
+1,0 sur 5 étoiles Déconseillé
+Au premier contact, le poids plume de l'appareil est sympathique, ses dimensions aussi, mais le clavier choque par son côté (très ?) fragile. Je verrai à l'usage.
+Ensuite vient le moment de l'installation (Linux Ubuntu GNOME): en mode UEFI, tout se passe à merveille, sauf que la machine ne reconnaît pas le disque dur au redémarrage. C'est systématique, avec ou sans mot de passe BIOS, avec ou sans Secure Boot. Je suis donc passé en mode Legacy et là, l'installation se passe bien, le redémarrage aussi. Par contre, la machine plante systématiquement en arrêtant le système, il faut la "finir" au bouton marche/arrêt.
+Enfin à l'utilisation, ce n'est pas un foudre de guerre. Avec 4 coeurs à 1.6 GHz, on s'attendrait pourtant à ce qu'une utilisation bureautique ne pose pas de problème, mais si.
+Le démarrage du système se passe bien, mais quand on clique sur une application, elle met du temps à s'ouvrir. On pourrait supposer que c'est dû au disque dur un peu lent, mais non, il y a autre chose, car quand on ouvre une fenêtre à l'intérieur de cette application (ex. quand on clique sur Enregistrer sous ou Imprimer), elle met un temps assez long à s'ouvrir.
+Si vous utilisez ce portable quand vous êtes en déplacement, ça ira, vous pouvez supporter ces curieuses lenteurs pour une durée limitée, mais en usage quotidien, ça ne le fait pas. Dans ce cas, mieux vaut mettre un peu plus cher pour avoir un Core i5.
+J'ai acheté plusieurs portables Novell ces dernières années et j'ai été à chaque fois déçu, celui-ci sera donc le dernier.
+En conséquence, je déconseille la marque dans son ensemble, et pas seulement ce modèle.

@@ -1,0 +1,126 @@
+
+
+
+							//-----------------------------------------------------------//
+							//                          SCRIPTING                        //
+							//-----------------------------------------------------------//
+
+
+//  Scripting
+//______________________________________________________________________________________________________________________
+
+/*
+         Scripting allows controlling and extending the project workflow.
+         (please see https://docs.expert.ai/studio/latest/languages/scripting/ for a complete explanation)
+*/
+
+//______________________________________________________________________________________________________________________
+
+
+function shutdown() {
+
+}
+
+
+//______________________________________________________________________________________________________________________
+
+
+function initialize(cmdline) {
+	return true;
+}
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onPrepare         Enable this function if you need to modify text
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#onprepare
+*/
+
+/*
+function onPrepare(text) {
+
+    return text;
+}
+*/
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onTagger          Enable this function if you need to add tags to the disambiguation
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#ontagger
+*/
+
+/*
+function onTagger() {
+}
+*/
+
+
+//EXAMPLE of an onTagger function
+//This onTagger function allows for integrating the concept of "natural language processing" SYN ID#196347 with two additional variants/lemmas: "Natural Language Processing","natural-language processing"
+
+function onTagger() {
+  var count = DIS.getTokensCount();
+  for (var i=0; i<count; i++) {
+    var token = DIS.getToken(i);
+    if (token.synId==196347)
+      DIS.tagToken(i, "Natural Language Processing","natural-language processing");
+  }
+}
+
+
+
+//______________________________________________________________________________________________________________________
+
+/*
+onFinalize        Enable this function if you need to modify standard json output or add custom output
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#onfinalize
+*/
+
+/*
+function onFinalize(result) {
+    return result;
+}
+*/
+
+
+//______________________________________________________________________________________________________________________
+
+
+/*
+onFinalize        Enable this function in order to apply post-processing on categorization results
+
+WIKI              https://docs.expert.ai/studio/latest/languages/scripting/#oncategorizer
+
+CLEAN             The CLEAN functionality filters categorization outcomes by removing from the final results all categories
+                  with a score lower than any positive integer (10 in this example).
+
+FILTER            This functionality filters by score the categorization results that passed the previous filtering
+                  (score threshold) The category with the highest score is always in the results. The second category
+                  in the line (ordered by score) will be in the final results only if it scores at least 20% of the
+                  first category's score. The third category in the line will also be in the final results only if
+                  it scores at least 80% of the second category score. This example limits possible categorization
+                  results up to 3 categories. It is possible to add to the number of total categories in the final
+                  output by modifying the filtering criteria (i.e. FILTER(RESULTS, [20, 60, 80])
+
+*/
+
+function onCategorizer() {
+
+//With this line of code, you collect all categorization results for applying following processing criteria
+var RESULTS = CLONE(ALL);
+
+RESULTS = CLEAN(RESULTS, 10);
+
+RESULTS = FILTER(RESULTS, [20, 80]);
+
+//This final functionality collects all categories resulting from all the previous processing criteria and
+//makes them final categorization results
+WINNERS = CLONE(RESULTS);
+
+}

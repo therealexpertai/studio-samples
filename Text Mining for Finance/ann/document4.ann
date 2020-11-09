@@ -1,0 +1,90 @@
+T1	Wordcloud.Wordcloud 0 7	Twitter
+T2	Wordcloud.Wordcloud 13 15	Q1
+T3	Wordcloud.Wordcloud 59 67	COVID-19
+T4	Wordcloud.Wordcloud 68 76	pandemic
+T5	Wordcloud.Wordcloud 77 84	Twitter
+T6	Wordcloud.Wordcloud 108 121	first quarter
+T7	Wordcloud.Wordcloud 445 452	revenue
+T8	Wordcloud.Wordcloud 473 475	Q1
+T9	Wordcloud.Wordcloud 604 612	COVID-19
+T10	Wordcloud.Wordcloud 628 637	Ned Segal
+T11	Wordcloud.Wordcloud 723 731	COVID-19
+T12	Wordcloud.Wordcloud 734 736	Ned Segal
+T13	Wordcloud.Wordcloud 750 758	earnings
+T14	Wordcloud.Wordcloud 765 772	Twitter
+T15	Wordcloud.Wordcloud 782 784	Q1
+T16	Wordcloud.Wordcloud 870 878	analyst
+T17	Wordcloud.Wordcloud 888 895	Twitter
+T18	Wordcloud.Wordcloud 922 929	revenue
+T19	Wordcloud.Wordcloud 973 975	Q1
+T20	Wordcloud.Wordcloud 985 992	Twitter
+T21	Wordcloud.Wordcloud 1016 1023	outlook
+T22	Wordcloud.Wordcloud 1108 1116	guidance
+T23	Wordcloud.Wordcloud 1263 1270	revenue
+T24	Wordcloud.Wordcloud 1274 1290	operating income
+T25	Wordcloud.Wordcloud 1291 1299	guidance
+T26	Wordcloud.Wordcloud 1304 1306	Q2
+T27	Wordcloud.Wordcloud 1333 1340	Twitter
+T28	Wordcloud.Wordcloud 1355 1362	analyst
+T29	Wordcloud.Wordcloud 1478 1480	Q1
+T30	Wordcloud.Wordcloud 1504 1512	COVID-19
+T31	Wordcloud.Wordcloud 1513 1521	pandemic
+T32	Wordcloud.Wordcloud 1523 1530	Twitter
+T33	Wordcloud.Wordcloud 1568 1575	revenue
+T34	Wordcloud.Wordcloud 1615 1623	downturn
+T35	Wordcloud.Wordcloud 1800 1807	Twitter
+T36	Wordcloud.Wordcloud 1830 1838	guidance
+T37	Wordcloud.Wordcloud 1842 1844	Q2
+T38	Wordcloud.Wordcloud 1846 1851	Ned Segal
+T39	Wordcloud.Wordcloud 1860 1868	analyst
+T40	Wordcloud.Wordcloud 2015 2022	Twitter
+T41	Wordcloud.Wordcloud 2102 2107	Ned Segal
+T42	Wordcloud.Wordcloud 2337 2344	Twitter
+T43	Wordcloud.Wordcloud 2584 2591	Twitter
+T44	Wordcloud.Wordcloud 2636 2643	Twitter
+T45	Wordcloud.Wordcloud 3074 3081	Twitter
+T46	Wordcloud.Wordcloud 3141 3154	first quarter
+T47	Wordcloud.Wordcloud 3156 3163	Twitter
+T48	Wordcloud.Wordcloud 3175 3182	revenue
+T49	Wordcloud.Wordcloud 3247 3254	revenue
+T50	Wordcloud.Wordcloud 3358 3365	Twitter
+T51	Wordcloud.Wordcloud 3447 3449	Q1
+T52	Wordcloud.Wordcloud 3589 3591	Q1
+T53	Wordcloud.Wordcloud 3621 3624	net
+T54	Wordcloud.Wordcloud 3666 3673	Twitter
+T55	Wordcloud.Wordcloud 3699 3701	Q1
+T56	Wordcloud.Wordcloud 3811 3813	Q2
+T57	Wordcloud.Wordcloud 3923 3930	Twitter
+T58	Wordcloud.Wordcloud 4112 4119	Twitter
+T59	Wordcloud.Wordcloud 4262 4270	downturn
+T60	Finance_Extractions.Stock_Exchange 409 420	Wall Street
+T61	Finance_Extractions.Revenue 457 469	808,000,000 dollar in Q1
+T62	Finance_Extractions.Net_Loss 797 807	8,000,000 dollar
+T63	Finance_Extractions.Net_Income 833 844	66,000,000 dollar
+T64	Finance_Extractions.Revenue 906 918	776,000,000 dollar
+T65	Finance_Extractions.Revenue_Decrease 1591 1594	27%
+T66	Finance_Extractions.Revenue_Decrease 3269 3281	339,000,000 dollar
+T67	Finance_Extractions.Revenue_Decrease 3263 3265	4%
+T68	Finance_Extractions.Revenue 3191 3203	468,000,000 dollar
+T69	Finance_Communications.Source 628 637	Ned Segal
+T70	Finance_Communications.Sentence 445 664	Revenue was $808 million in Q1, up 3% year over year, "reflecting a strong start to the quarter that was impacted by widespread economic disruption related to COVID-19 in March", CFO Ned Segal said in prepared comments.
+T71	Finance_Communications.Role 624 627	CFO
+T72	Finance_Communications.Quote 499 622	"reflecting a strong start to the quarter that was impacted by widespread economic disruption related to COVID-19 in March"
+T73	Finance_Communications.Form 638 642	said
+T74	Finance_Communications.Action 638 642	say
+T75	Finance_Communications.Source 2648 2659	Jack Dorsey
+T76	Finance_Communications.Sentence 2559 2687	"In this difficult time, Twitter's purpose is proving more vital than ever", Twitter CEO Jack Dorsey said in announcing results.
+T77	Finance_Communications.Role 2644 2647	CEO
+T78	Finance_Communications.Quote 2559 2634	"In this difficult time, Twitter's purpose is proving more vital than ever"
+T79	Finance_Communications.Form 2660 2664	said
+T80	Finance_Communications.Action 2660 2664	say
+T81	Finance_Communications.Action 2668 2678	announce
+T82	Finance_Communications.Form 2668 2678	announcing
+T83	Finance_Communications.Source 1846 1851	Ned Segal
+T84	Finance_Communications.Sentence 1794 2004	While Twitter didn't offer specific guidance on Q2, Segal pointed analysts to the March decline as an indication of ad spending through April, saying that "gives you a good sense of what it's been like for us".
+T85	Finance_Communications.Quote 1949 2003	"gives you a good sense of what it's been like for us"
+T86	Finance_Communications.Action 1937 1943	say
+T87	Finance_Communications.Form 1937 1943	saying
+T88	Contact_Info.FullName 4294 4307	Jon Paul Wong
+T89	Contact_Info.Phone 4360 4372	2025550142
+T90	Contact_Info.Email 4316 4347	thisisanemail@thisisanemail.com

@@ -1,0 +1,12 @@
+Maxell again sues Apple over passcode unlock, Wi-Fi assist and other features
+Electronics maker Maxell on Thursday filed a new lawsuit accusing Apple of infringing on at five of its patents with products and features like Wi-Fi Assist and passcodes.
+The complaint, lodged in the U.S. District Court for the Western District of Texas, comes more than a year after Maxell filed a similar lawsuit that claimed Apple was violating 10 U.S. patents. Maxell's lawsuit on Thursday brings the total number of patents to 15.
+Maxell's U.S. patents named in the lawsuit cover various technologies such as mobile communications, device unlocking, white balance adjustment settings, wireless video sharing and facial recognition in photo albums.
+For example, the company says that Apple's People album in Photos, which groups together pictures of individual people, is violating U.S. Patent No. 10,176,848. The patent includes a technique that would allow a user to register a picture of a specific person and have future images of the same person "categorized and recorded in association".
+Another patent named in the complaint, No. 7,203,517, describes a method to curb communication instability by allowing a system to choose between different communication systems based on several factors. Maxell says that Apple's Wi-Fi Assist feature violates this patent.
+Additionally, the Japan-based firm claims that Apple's security unlocking systems, its photo editing tools in Camera, and its AirPlay and Bluetooth sharing features are all in violation of three separate patents.
+Along with the specific software features, a slew of different Apple devices are named as infringing products. They include everything from an iPhone 7 to the 16-inch MacBook Pro.
+On each patent infringement count, Maxell contends that the Cupertino tech company is and has been aware of the existence of the patents and could not "reasonably" belief that they are invalid.
+"Despite that knowledge and subjective belief, and the objectively high likelihood that its actions constitute infringement, Apple has continued its infringing activities", the lawsuit reads.
+Maxell is seeking a jury trial, as well as damages and both preliminary and permanent injunctions on the offending software and hardware.
+Apple's first litigation with Maxell is still ongoing. Recently, a U.S. District Judge granted special measures in the case to allow Maxell to review Apple source code related to the patent infringement claims.

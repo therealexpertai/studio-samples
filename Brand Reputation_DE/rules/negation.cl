@@ -1,0 +1,9 @@
+nicht
+nichts
+kein
+keiner
+keine
+keines
+keinen
+keinem
+ohne

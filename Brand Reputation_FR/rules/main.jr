@@ -1,0 +1,66 @@
+function shutdown() {
+
+}
+
+function initialize(cmdline) {
+
+	return true;
+}
+
+// enable this function if you need to modify text
+/*
+function onPrepare(text) {
+
+    return text;
+}
+*/
+
+// enable this function if you need to add tags to the disambiguation
+/*
+function onTagger() {
+}
+*/
+
+// enable this function if you need to modify standard json output or add custom output
+/*
+function onFinalize(result) {
+    return result;
+}
+*/
+
+// enable this function if you need to apply language "D"
+
+function onCategorizer() {
+	var RESULTS = CLONE(ALL);
+
+	var OPINION = SET(["01.01", "01.02", "01.03", "01.04", "01.05", "01.06"])
+	var OPINION_EXIST = INTERSECTION (OPINION, RESULTS)
+
+    RESULTS = CLEAN(OPINION_EXIST, 4);
+
+   	var POSITIV = SET(["01.01", "01.05"])
+	var NEGATIV = SET(["01.02", "01.03", "01.04"])
+	var NEUTRAL = SET(["01.06"])
+    var POSITIV_EXIST = INTERSECTION(POSITIV,RESULTS)
+	var NEGATIV_EXIST = INTERSECTION(NEGATIV,RESULTS)
+	var NEUTRAL_EXIST = INTERSECTION(NEUTRAL,RESULTS)
+
+    if(DIMENSIONS(POSITIV_EXIST, ">=",1))
+    {
+        RESULTS = INSERT(RESULTS, "02.01")
+    }
+
+    if(DIMENSIONS(NEGATIV_EXIST, ">=",1))
+    {
+        RESULTS = INSERT(RESULTS, "02.02")
+    }
+
+    if(DIMENSIONS(NEUTRAL_EXIST, ">=",1))
+    {
+        RESULTS = INSERT(RESULTS, "02.03")
+    }
+
+
+
+    WINNERS = RESULTS;
+}

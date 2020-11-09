@@ -1,0 +1,19 @@
+Novell Soupbook S123 ist ein preiswertes Arbeitsgerät ohne große Schwächen
+Das Soupbook muss bei mir folgendes Anforderungsprofil erfüllen:
+* Surfen (i.a. nur wenige Tabs gleichzeitig offen)
+* Filme bzw. Videos über Netzwerk abspielen (die Dateien - i.d.R. im mp4-Format und zumeist in HD - liegen auf meinem NAS und das Soupbook ist mit dem NAS über openVPN verbunden)
+* Zugriff auf einen Win10 Rechner via Remotedesktop (mittels Microsoft RDP App für Android)
+Dieses Anforderungsprofil erfüllt das Soupbook leistungsmäßig ohne Probleme. Die Videos ruckeln nicht und die Fernsteuerung des Remote-Computers erfolgt ohne merkliche Verzögerungen. Android Apps (z.B. AquaMail, Synology MailPlus) laufen generell "flüssig".
+Positiv:
+Das Soupbook ist leicht und macht optisch und haptisch einen guten Eindruck.
+Das Display ist touchfähig.
+Das Gerät besitzt ein 360°-Scharnier auf und kann - z.B. für das Betrachten von Filmen - im Zelt-Modus aufgestellt werden
+Die Bildschirmhelligkeit ist für "indoor" Nutzung völlig ausreichend und der Bildschirm ist für mein Empfinden ausreichend blickstabil in Bezug auf Helligkeit und Farbwiedergabe.
+Das Touchpad lässt sich gut handhaben und reagiert aus meiner Sicht ausreichend präzise.
+Das Soupbook ist preiswert (ich habe es bei Amazon für 299 Euro bestellt und mit einem 15 Euro Gutschein für erstmalige Nutzung der Amazon App letztendlich nur 284 Euro bezahlt).
+Neutral bis nicht ganz so schön:
+Die Tastatur hat einen kurzen Hub und die Anschläge empfinde ich etwas "schwammig" (ich bin allerdings von meinen Thinkpads diesbezüglich etwas verwöhnt). Darüber hinaus ist die Return-Taste etwas klein.
+Das Bildschirmscharnier gibt, wenn man den hochgeklappten Bildschirm im Touch-Modus nutzt, leicht nach. Das ist etwas gewöhnungsbedürftig. Andererseits ist das Scharnier aber nicht zu stramm eingestellt, so dass sich das Soupbook einfach aufklappen lässt (das geht bei meinem Elitebook x360 beispielsweise deutlich schwerer).
+Der Bildschirm ist im Toch-Modus beim Wischen etwas "rau". d.h. der Finger "gleitet" nicht so leicht über die Oberfläche.
+Erstes Fazit nach knapp einer Woche mit dem Gerät:
+Ein preiswertes Arbeitsgerät das tut, was es soll. Für 300 Euro eine klare Empfehlung mit 4 Sternen, für 350 Euro gute 3 Sterne.

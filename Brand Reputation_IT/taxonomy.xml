@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOMAINTREE>
+    <DOMAIN NAME="01" LABEL="Opinion">
+        <DOMAIN NAME="01.01" LABEL="Soddisfazione"/>
+        <DOMAIN NAME="01.02" LABEL="Insoddisfazione"/>
+        <DOMAIN NAME="01.03" LABEL="Delusione"/>
+        <DOMAIN NAME="01.04" LABEL="Inaffidabilità"/>
+        <DOMAIN NAME="01.05" LABEL="Affidabilità"/>
+        <DOMAIN NAME="01.06" LABEL="Indifferenza"/>
+    </DOMAIN>
+    <DOMAIN NAME="02" LABEL="Sentiment">
+        <DOMAIN NAME="02.01" LABEL="Positivo"/>
+        <DOMAIN NAME="02.02" LABEL="Negativo"/>
+        <DOMAIN NAME="02.03" LABEL="Neutro"/>
+    </DOMAIN>
+</DOMAINTREE>

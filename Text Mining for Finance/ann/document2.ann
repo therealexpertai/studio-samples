@@ -1,0 +1,57 @@
+T1	Wordcloud.Wordcloud 2089 2097	Anadarko
+T2	Wordcloud.Wordcloud 2275 2283	Anadarko
+T3	Wordcloud.Wordcloud 0 7	Chevron Corporation
+T4	Wordcloud.Wordcloud 111 118	Chevron Corporation
+T5	Wordcloud.Wordcloud 305 312	Chevron Corporation
+T6	Wordcloud.Wordcloud 350 357	Chevron Corporation
+T7	Wordcloud.Wordcloud 1239 1246	Chevron Corporation
+T8	Wordcloud.Wordcloud 1562 1569	Chevron Corporation
+T9	Wordcloud.Wordcloud 1984 1991	Chevron Corporation
+T10	Wordcloud.Wordcloud 2142 2149	Chevron Corporation
+T11	Wordcloud.Wordcloud 2073 2083	Occidental Petroleum Company
+T12	Wordcloud.Wordcloud 2171 2181	Occidental Petroleum Company
+T13	Wordcloud.Wordcloud 1170 1176	asset
+T14	Wordcloud.Wordcloud 1402 1408	asset
+T15	Wordcloud.Wordcloud 1935 1941	asset
+T16	Wordcloud.Wordcloud 1829 1842	consolidation
+T17	Wordcloud.Wordcloud 576 582	energy
+T18	Wordcloud.Wordcloud 876 882	energy
+T19	Wordcloud.Wordcloud 60 63	oil
+T20	Wordcloud.Wordcloud 618 621	oil
+T21	Wordcloud.Wordcloud 689 692	oil
+T22	Wordcloud.Wordcloud 988 991	oil
+T23	Wordcloud.Wordcloud 1035 1038	oil
+T24	Wordcloud.Wordcloud 79 87	pandemic
+T25	Wordcloud.Wordcloud 236 244	pandemic
+T26	Wordcloud.Wordcloud 500 508	pandemic
+T27	Wordcloud.Wordcloud 1880 1888	pandemic
+T28	Wordcloud.Wordcloud 2125 2134	petroleum
+T29	Wordcloud.Wordcloud 583 589	price
+T30	Wordcloud.Wordcloud 883 889	price
+T31	Wordcloud.Wordcloud 992 998	price
+T32	Wordcloud.Wordcloud 827 832	shale
+T33	Wordcloud.Wordcloud 940 945	shale
+T34	Wordcloud.Wordcloud 313 318	stock
+T35	Wordcloud.Wordcloud 331 336	stock
+T36	Wordcloud.Wordcloud 1744 1749	stock
+T37	Wordcloud.Wordcloud 337 348	transaction
+T38	Wordcloud.Wordcloud 1329 1340	transaction
+T39	Wordcloud.Wordcloud 1750 1762	transaction
+T40	Wordcloud.Wordcloud 2324 2330	merger
+T41	Finance_Acquisitions.Sentence 0 87	Chevron will buy Noble Energy for $5 billion -- the biggest oil deal since the pandemic
+T42	Finance_Acquisitions.Seller 17 29	Noble Energy
+T43	Finance_Acquisitions.Seller 13 16	Noble Energy
+T44	Finance_Acquisitions.Form 13 16	Finance
+T45	Finance_Acquisitions.Buyer 0 7	Chevron Corporation
+T46	Finance_Acquisitions.Action 13 16	buy
+T47	Finance_Acquisitions.Acquisition_Money 34 44	5,000,000,000 dollar
+T48	Finance_Acquisitions.Sentence 88 187	New York (CNN Business)Chevron announced Monday it would acquire Noble Energy (NBL) for $5 billion.
+T49	Finance_Acquisitions.Seller 145 152	Noble Energy
+T50	Finance_Acquisitions.Seller 153 165	Noble Energy
+T51	Finance_Acquisitions.Seller 167 170	NBL
+T52	Finance_Acquisitions.Form 145 152	Finance
+T53	Finance_Acquisitions.Buyer 111 118	Chevron Corporation
+T54	Finance_Acquisitions.Action 145 152	acquire
+T55	Finance_Acquisitions.Acquisition_Money 176 186	5,000,000,000 dollar
+T56	Contact_Info.Phone 2533 2545	2025550142
+T57	Contact_Info.Email 2489 2520	thisisanemail@thisisanemail.com
