@@ -1,0 +1,7 @@
+/gen/
+/package/
+/reports/
+.idea/workspace.xml
+.idea/misc.xml
+/test/mytest.txt
+/rules/dic
