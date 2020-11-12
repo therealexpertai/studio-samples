@@ -3,7 +3,7 @@
 This repository contains a number of *sample projects* for <a href="https://www.expert.ai/nl-suite/expert-ai-studio/"><b>expert.ai Studio</b></a>. 
 The projects can be freely downloaded and opened with Studio and used for any purpose granted by the license.
 
-You can download expert.ai Studio from the expert.ai <a href="https://developer.expert.ai/">developer portal</a>. For tutorials, videos and reference, have a look at the <a href="https://www.expert.ai/nl-suite/expert-ai-studio/">Studio documentation</a> portal.
+You can download expert.ai Studio from the expert.ai <a href="https://developer.expert.ai/">developer portal</a>. For tutorials, videos and reference, have a look at the <a href="https://docs.expert.ai/studio/latest/">Studio documentation</a> portal.
 
 This repository contains the following projects:
 
