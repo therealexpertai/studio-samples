@@ -39,7 +39,7 @@ FIRST STEPS:
 
         TEMPLATE(YOUR_EXTRACTION_NAME)
         {
-            @FIELD   //MB: metterei direttamente FIELD per non creare confusione
+            @FIELD   
         }
 
         Now, head over to your previously created rules file and structure rules this way:
